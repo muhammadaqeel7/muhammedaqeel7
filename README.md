@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media-exp1.licdn.com/dms/image/C4D16AQFXw1ADCHw2hg/profile-displaybackgroundimage-shrink_200_800/0/1653202359333?e=1666828800&v=beta&t=JoLAeuiZJSyHFzH9LfCFaoGhbIpWLjm4vrS_os1CoMI))
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
