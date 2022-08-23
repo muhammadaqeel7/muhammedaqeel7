@@ -6,7 +6,7 @@ I am a self-taught programmer, who is passionate about learning new technologies
 ## Skills and experience
 - ⚛ REACT 
 - 💻 HTML / CSS / JS
-- 👨‍💻 PHP 
+- 👨‍💻 PHP / WORDPRESS
 - 📱 FLUTTER
 
 ## Stats
