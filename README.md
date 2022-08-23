@@ -9,6 +9,8 @@ I am a self-taught programmer, who is passionate about learning new technologies
 - 👨‍💻 PHP 
 - 📱 FLUTTER
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadaqeel7)](https://github.com/muhammadaqeel7/github-readme-stats)
+
 ## Stats
 [![Aqeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadaqeel7)](https://github.com/muhammadaqeel7/github-readme-stats)
 
