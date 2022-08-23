@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Muhammad Aqeel
 I am a self-taught programmer, who is passionate about learning new technologies every single day. I love learning new skills. I believe that coding is the true power of technology⚡. I am good at coding skills and building new codes!!👨‍💻
 
-## Skills
+## Skills and experience
 - ⚛ REACT 
 - 💻 HTML / CSS / JS
 - 👨‍💻 PHP 
