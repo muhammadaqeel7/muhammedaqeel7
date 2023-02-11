@@ -1,7 +1,7 @@
 ![Web/App Develeoper](https://media-exp1.licdn.com/dms/image/C4D16AQFXw1ADCHw2hg/profile-displaybackgroundimage-shrink_200_800/0/1653202359333?e=1666828800&v=beta&t=JoLAeuiZJSyHFzH9LfCFaoGhbIpWLjm4vrS_os1CoMI)
 
 ## Hi there 👋, I'm Muhammad Aqeel
-I am a self-taught programmer, who is passionate about learning new technologies every single day. I love learning new skills. I believe that coding is the true power of technology⚡. I am good at coding skills and building new codes!!👨‍💻
+With 1+ years of experience in front and back-end development, I am specialized in using cutting-edge technologies such as HTML, CSS, JavaScript, React, Flutter, React Native, PHP, and Firebase to build high-quality software. My expertise in these skills has allowed me to be a part of various projects in different industries, such as web development, mobile development, and software development. I am always eager to take on new challenges and I believe my technical skills and experience make me an ideal candidate for any development project. My goal is to continue learning new technologies and best practices and to use that knowledge to empower businesses with innovative solutions.
 
 ## Skills and experience
 - ⚛ REACT 
